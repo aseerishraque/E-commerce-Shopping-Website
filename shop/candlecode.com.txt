@@ -1,0 +1,21 @@
+Shoping System
+
+ Access admin Panal
+
+ localhost/shop/admin/login.php
+user :nayem
+password:1234
+
+
+
+  CANDLECODE.COM - EXCLUSIVE SCRIPTS IN PHP, PLUGINS & MOBILE - DAILY RELEASES!
+
+  http://www.candlecode.com
+
+
+
+
+
+
+
+
